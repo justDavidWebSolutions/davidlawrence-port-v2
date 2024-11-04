@@ -1,0 +1,14 @@
+:root {
+    --background-color: #2a2a2a;
+    --shadow-color: #4b3d3b;
+    --text-color: #f7f3e7;
+    --highlight-color: #d6cfc4;
+    --accent-color: #c2b280;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', sans-serif;
+}
